@@ -52,7 +52,7 @@ export default function AdminLayout() {
           </NavLink>
         ))}
         <a
-          href="https://magenta-dieffenbachia-043f38.netlify.app"
+          href="http://localhost:3000"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-3 px-4 py-2.5 rounded-xl text-sm font-semibold text-stone-400 hover:text-white hover:bg-stone-800 transition-colors"
